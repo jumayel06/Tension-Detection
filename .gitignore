@@ -108,3 +108,6 @@ venv.bak/
 interview_transcripts/
 **/.idea/workspace.xml
 **/.idea/tasks.xml
+.idea/*
+
+.DS_Store
